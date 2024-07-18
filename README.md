@@ -4,7 +4,7 @@
 Leverage prompt engineering techniques to curate prompts by using Large Language Model's language understanding and generation in the space of Finance. Run through the notebook within Google Colab and have fun!
 💯
 
-
+![sentiment-icl](data/images/sentiment-analysis-icl-example.png) 
 
 ## FAQ
 
