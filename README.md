@@ -10,7 +10,7 @@ Leverage prompt engineering techniques to curate prompts by using Large Language
 
 #### Which LLM is being used here?
 
-Largely experiemented with LLAMA3-70B amongst the available LLMs in GROQ API due to its superiorty in performance. You are free to explore other available models as well!
+Largely experiemented with LLAMA3-70B amongst the available LLMs in GROQ API due to its superiority in performance. You are free to explore other available models as well!
 
 #### What are the use-cases identified here? 
 
