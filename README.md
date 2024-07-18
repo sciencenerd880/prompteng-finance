@@ -1,8 +1,8 @@
 
-# Prompt Engineering Techniques for Finance
+# Prompt Engineering Techniques for Finance 👨‍💻📝
 
 Leverage prompt engineering techniques to curate prompts by using Large Language Model's language understanding and generation in the space of Finance. Run through the notebook within Google Colab and have fun!
-
+💯
 
 
 
@@ -22,9 +22,9 @@ Largely experiemented with LLAMA3-70B amongst the available LLMs in GROQ API due
 
 #### What are some of the prompt engineering techniques explored in this notebok?
 
-(1) Few Shot Prompting
+(1) Few Shot Prompting 🚀🚀🚀
 
-(2) Zero Shot Prompting
+(2) Zero Shot Prompting 🚀
 
 You can also explore others such as Chain-of-Thought Prompting, Plan-and-solve prompting, etc. 
 
@@ -44,7 +44,7 @@ You can also explore others such as Chain-of-Thought Prompting, Plan-and-solve p
 - [@sciencenerd880](https://www.github.com/sciencenerd880)
 
 
-## References
+## 👊References
 
  - [GROQs API - LLMs Comparison](https://medium.com/@samir20/mistral-7b-vs-llama-3-70b-vs-gemma-2-9b-a-comprehensive-benchmark-showdown-9c3128f24b23#:~:text=Llama%203%2070B%20significantly%20outperforms,human%20language%20across%20diverse%20scenarios.&text=In%20the%20GPQA%20benchmark%2C%20which,70B%20again%20leads%20the%20pack)
  - [Leaderboard LLMs](https://huggingface.co/blog/gemma)
