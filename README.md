@@ -19,6 +19,8 @@ Largely experiemented with LLAMA3-70B amongst the available LLMs in GROQ API due
 (2) Financial Data Extraction from Earnings Call Transcript
 
 (3) Sentiment Analysis of FED Chair FOMC on Interest Rate Decision
+![sentiment-icl](data/images/sentiment-analysis-output.png) 
+
 
 #### What are some of the prompt engineering techniques explored in this notebok?
 
